@@ -7,7 +7,8 @@ layout: default
 ### How can I use?
 1. Launch remote controll mode or turn Wi-Fi on.
   + E-mount models, RX100M3 etc.: Launch Smart Remote app from application menu
-  + Action cam, Lens style cameras: Turn Wi-Fi on
+  + Action cam, QX series: Turn Wi-Fi on
+  + Other models: Launch Control with Smartphone from menu
 2. Connect to your camera from Wi-Fi setting on your phone
   + Note that your camera will be appeared like "DIRECT-********:HDR-AS30V" on your list of access point
 3. Launch Scrap/Locana
@@ -37,6 +38,8 @@ Make sure followings:
 
 If you're already using it, settings which displayed may be all of supported functions. See official documentation.
 
+### Too low framerate
+It might be caused by phone's performance. Please try to turn off histogram display.
 
 ---
 [Back to Index](/)
