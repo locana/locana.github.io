@@ -36,7 +36,7 @@ Make sure followings:
 ### Too few available settings
 **Please install the latest SmartRemote application from Playmemories camera apps, or use latest camera's firmware.**
 
-If you're already using it, settings which displayed may be all of supported functions. See official documentation.
+If you're already using it, settings which displayed may be all of supported functions. [See official documentation.](https://developer.sony.com/develop/cameras/)
 
 ### Too low framerate
 It might be caused by phone's performance. Please try to turn off histogram display.
