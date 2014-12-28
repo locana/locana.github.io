@@ -8,7 +8,7 @@ layout: default
 1. Launch remote controll mode or turn Wi-Fi on.
   + E-mount models, RX100M3 etc.: Launch Smart Remote app from application menu
   + Action cam, QX series: Turn Wi-Fi on
-  + Other models: Launch Control with Smartphone from menu
+  + Others: Launch Control with Smartphone from menu
 2. Connect to your camera from Wi-Fi setting on your phone
   + Note that your camera will be appeared like "DIRECT-********:HDR-AS30V" on your list of access point
 3. Launch Scrap/Locana
