@@ -22,6 +22,9 @@ Remote controlling application for Sony camera devices. Scrap supports all of av
 
 **Scrap will no longer be maintained because we're now working for a new universal app, Locana.**
 
+### FAQ
+See [FAQ](/faq.html)
+
 ### Supported devices and applications
 
 For detail, see official documents. https://developer.sony.com/develop/cameras/
