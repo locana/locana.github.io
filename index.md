@@ -2,6 +2,13 @@
 layout: default
 ---
 
+## About
+
+We are developing applications for Windows / Windows Phone to connect to Sony camera devices. It's powered by [Sony Camera Remote API](http://developer.sony.com/develop/cameras/).
+
+---
+
+
 ## Locana
 
 New generation of remote controlling application for Sony camera devices. We're planning to support both of Windows 8.1 store app. and Windows Phone 8.1.
@@ -15,6 +22,11 @@ Entire functions in your hand. Coming spring 2015.
 ### for Windows 8.1 store app.
 
 Powerful functions with large screen.
+
+#### Development
+
+All of source codes and assets are on ['uwpmm' repository](https://github.com/locana/uwpmm) in our organization.
+
 
 ## Scrap
 
@@ -33,7 +45,7 @@ For detail, see official documents. https://developer.sony.com/develop/cameras/
 - QX1 / DSC-QX30
 - HDR-AS15 (Only the latest firmware) / HDR-AS20 / HDR-AS30 / HDR-AS100 / HDR-AZ1
 - PlayMemories Camera Apps - Smart Remote Control v2.0 or later
-  + A6000 / A5000 / A7R / A7 / A7S / NEX-6 / NEX-5R / NEX-5T
+  + A6000 / A5100 / A5000 / A7R / A7 / A7M2 / A7S / NEX-6 / NEX-5R / NEX-5T
   + DSC-RX100M3 / DSC-HX60V / DSC-HX400V etc.
 - HDR-MV1
 
@@ -43,7 +55,7 @@ For detail, see official documents. https://developer.sony.com/develop/cameras/
 
 Available functions are based on provided APIs by each camera device (or installed Smart Remote Control app version).
 
-Refer to official site for the details.
+Refer to [official site](http://developer.sony.com/develop/cameras/) for the details.
 
 Additionally, Scrap supports the following features.
 
@@ -53,3 +65,7 @@ Additionally, Scrap supports the following features.
 - RGB histogram
 - Composition assist lines
 - Wi-Fi connection support by NFC
+
+#### Development
+
+It had developed on [this repository](https://github.com/kazyx/WPPMM).
