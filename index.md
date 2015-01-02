@@ -4,20 +4,22 @@ layout: default
 
 ## About
 
-We are developing applications for Windows / Windows Phone to connect to Sony camera devices. It's powered by [Sony Camera Remote API](http://developer.sony.com/develop/cameras/).
+We are developing applications for Windows / Windows Phone to control Sony camera devices.
+It's powered by [Sony Camera Remote API](http://developer.sony.com/develop/cameras/).
 
 ---
 
 
 ## Locana
 
-New generation of remote controlling application for Sony camera devices. We're planning to support both of Windows 8.1 store app. and Windows Phone 8.1.
+New generation of remote control application for Sony camera devices.
+We're planning to support both Windows 8.1 and Windows Phone 8.1.
 
 Locana will follow the latest API and have new functions which will be supported on the new models.
 
-### for Windows Phone 8.1
+### for Windows Phone 8.1 app.
 
-Entire functions in your hand. Coming spring 2015.
+Entire functions in your hand. Coming in spring 2015.
 
 ### for Windows 8.1 store app.
 
@@ -25,17 +27,19 @@ Powerful functions with large screen.
 
 #### Development
 
-All of source codes and assets are on ['uwpmm' repository](https://github.com/locana/uwpmm) in our organization.
+All of source code and assets are on ['uwpmm' repository](https://github.com/locana/uwpmm) in our organization.
 
 
 ## Scrap
 
-Remote controlling application for Sony camera devices. Scrap supports all of available functions. Find it on the store for your Windows Phone 8.0/8.1 devices.
+Remote controlling application for Sony camera devices.
+Scrap supports all of available functions.
+Find it on the store for your Windows Phone 8.0/8.1 devices.
 
 **Scrap will no longer be maintained because we're now working for a new universal app, Locana.**
 
 ### FAQ
-See [SCRAP's FAQ](/scrap_faq.html)
+See [Scrap's FAQ](/scrap_faq.html)
 
 ### Supported devices and applications
 
@@ -68,4 +72,4 @@ Additionally, Scrap supports the following features.
 
 #### Development
 
-It had developed on [this repository](https://github.com/kazyx/WPPMM).
+It had been developed on [this repository](https://github.com/kazyx/WPPMM).
