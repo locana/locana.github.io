@@ -2,15 +2,13 @@
 layout: default
 ---
 
-## FAQ
+## FAQ about SCRAP
 
 ### How can I install?
 
 Our application "Scrap" is available on [Windows Phone Store](http://www.windowsphone.com/en-us/store/app/scrap/896b0e1b-2c1a-40e4-9c55-09050e3860dc).
 
 Windows Phone 8.0 or later is supported.
-
-The new application "Locana" is now under development. It will support Windows 8.1 and Windows Phone 8.1.
 
 ### How can I use?
 1. Launch remote controll mode or turn Wi-Fi on.
@@ -19,7 +17,7 @@ The new application "Locana" is now under development. It will support Windows 8
   + Others: Launch Control with Smartphone from menu
 2. Connect to your camera from Wi-Fi setting on your phone
   + Note that your camera will be appeared like "DIRECT-********:HDR-AS30V" on your list of access point
-3. Launch Scrap/Locana
+3. Launch Scrap app.
 
 ### Wi-Fi is connected, but it doesn't start or liveview is not visible
 **First of all, update your camera's firmware or Smart Remote application to the LATEST one.**
@@ -52,7 +50,7 @@ It might be caused by phone's performance. Please try to turn off histogram disp
 ### How can I send feedback?
 We're waiting your feedback on Twitter ([@scrap_support](https://twitter.com/scrap_support)). Give us feedback and ask us anything!
 
-And if you are a developer, share us on the repositories ([Scrap](https://github.com/kazyx/WPPMM), [Locana](https://github.com/locana/uwpmm)) directry.
+And if you are a developer, share us on [the repository](https://github.com/kazyx/WPPMM) directry.
 
 ---
 [Back to Index](/)
