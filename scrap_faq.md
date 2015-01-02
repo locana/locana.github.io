@@ -6,7 +6,7 @@ layout: default
 
 ### How to install?
 
-Our application "Scrap" is available on [Windows Phone Store](http://www.windowsphone.com/en-us/store/app/scrap/896b0e1b-2c1a-40e4-9c55-09050e3860dc).
+Our application "Scrap" is available on [Windows Phone Apps Store](http://www.windowsphone.com/en-us/store/app/scrap/896b0e1b-2c1a-40e4-9c55-09050e3860dc).
 
 Windows Phone 8.0 and 8.1 are supported.
 
@@ -27,11 +27,13 @@ Windows Phone 8.0 and 8.1 are supported.
 
 ### How to transfer photos or movies from camera?
 About photos,
+
 - Currently, our application supports very limited models (AZ1, QX30, and QX1).
 - For the other models, please try DLNA client apps published on the App Store.
 It seems that some of DLNA control point application can fetch contents from Sony's camera devices.
 
 About movies
+
 - Transferring movie is hard to implement because saving movie to phone's storage is not supported on Windows Phone.
 
 ### NFC does not work
