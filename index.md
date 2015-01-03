@@ -72,4 +72,4 @@ Additionally, Scrap supports the following features.
 
 #### Development
 
-It had been developed on [this repository](https://github.com/kazyx/WPPMM).
+It had been developed on [this repository](https://github.com/locana/wppmm).

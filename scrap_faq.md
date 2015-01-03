@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## FAQ about SCRAP
+## FAQ about Scrap
 
 ### How to install?
 
@@ -12,7 +12,7 @@ Windows Phone 8.0 and 8.1 are supported.
 
 ### How to use?
 1. Launch remote control mode on your camera device.
-  + E-mount models, RX100M3 etc.: Launch "Smart Remote Control" app from application menu
+  + Camera Apps models (E-mount, RX100M3 etc.): Launch "Smart Remote Control" app from application menu
   + Action cam, QX series: Turn Wi-Fi on
   + Others: Launch Control with Smartphone from menu
 2. Connect your phone and camera from Wi-Fi setting of your phone
@@ -20,10 +20,21 @@ Windows Phone 8.0 and 8.1 are supported.
 3. Launch Scrap app on your phone.
 
 ### Wi-Fi is connected, but it doesn't work well
-**First of all, update your camera's firmware or Smart Remote Control application to the LATEST one.**
+**First of all, please update your camera's firmware or Smart Remote Control application to the LATEST one.**
 
-- Almost all of **pre-installed** Smart Remote Control app are incompatible with 3rd party applications.
-- QX10/100 and AS15 requires firmware update to be compatible with 3rd party applications.
+In some models, shipping version software does not support remote control by 3rd party applications, even if it is listed as supported device.
+
+- Camera Apps models requires install of Smart Remote Control app at PlayMemories Camera Apps store from your camera or PC.
+Note that **almost all of pre-installed app are incompatible with Scrap**.
+- QX10/100 and AS15 requires firmware update from your PC.
+
+Unfortunately, some models **cannot be supported** because of API restriction of camera device.
+On those devices, it seems that only Sony's official application can access API.
+The followings are well-known incompatible camera devices
+
+- RX100M2
+- HX50
+- WX80, WX200, WX300 
 
 ### How to transfer photos or movies from camera?
 About photos,
@@ -38,15 +49,15 @@ About movies
 
 ### NFC does not work
 
-Make sure followings:
+Make sure the followings:
 
-- NFC is enabled on phone's NFC setting
-- NFC is enabled on camera. (Is NFC icon (like "N" character) displayed on the screen?)
+- NFC setting of phone device.
+- NFC setting of camera device. (Is NFC icon (like "N" character) displayed on the screen?)
 
-### Too few available settings
+### Too few functions
 **Please update your camera's firmware or Smart Remote Control application to the LATEST one.**
 
-If you're already using the latest one, displayed settings may be all of the supported functions on your camera.
+If you're already using the latest one, what you are seeing on this application is what your camera device provide.
 [See Sony's official documentation.](https://developer.sony.com/develop/cameras/)
 
 ### Too low framerate
@@ -57,7 +68,7 @@ Please try to turn off histogram display.
 We're waiting your feedback on Twitter ([@scrap_support](https://twitter.com/scrap_support)).
 Give us feedback and ask us anything!
 
-And if you are a developer, share us on [the repository](https://github.com/kazyx/WPPMM) directry.
+And if you are a developer, share us on [the repository](https://github.com/locana/wppmm) directry.
 
 ---
 [Back to Index](/)
