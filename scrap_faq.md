@@ -14,7 +14,7 @@ Windows Phone 8.0 and 8.1 are supported.
 1. Launch remote control mode on your camera device.
   + Camera Apps models (E-mount, RX100M3 etc.): Launch "Smart Remote Control" app from application menu
   + Action cam, QX series: Turn Wi-Fi on
-  + Others: Launch Control with Smartphone from menu
+  + Others: Launch "Control with Smartphone" from menu
 2. Connect your phone and camera from Wi-Fi setting of your phone
   + Note that your camera will appear on the access point list as "DIRECT-********:HDR-AS30V".
 3. Launch Scrap app on your phone.
