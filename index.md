@@ -25,10 +25,44 @@ Entire functions in your hand. Coming in spring 2015.
 
 Powerful functions with large screen.
 
+### FAQ
+See [Locana's FAQ](/locana_faq.html)
+
+### Supported devices and applications
+
+For detail, see official documents. https://developer.sony.com/develop/cameras/
+
+- DSC-QX10 / DSC-QX100 (Firmware v3.00 or later is recommended)
+- QX1 / DSC-QX30
+- HDR-AS15 (Only the latest firmware) / HDR-AS20 / HDR-AS30 / HDR-AS100 / HDR-AZ1
+- PlayMemories Camera Apps - Smart Remote Control v2.0 or later
+  + A6000 / A5100 / A5000 / A7R / A7 / A7M2 / A7S / NEX-6 / NEX-5R / NEX-5T
+  + DSC-RX100M3 / DSC-HX60V / DSC-HX400V etc.
+- HDR-MV1
+
+**Other old models cannot be supported by our application due to restricted API access.**
+
+### Supported features
+
+Available functions are based on provided APIs by each camera device (or installed Smart Remote Control app version).
+
+Refer to [official site](http://developer.sony.com/develop/cameras/) for the details.
+
+Additionally, Scrap supports the following features.
+
+- **Download contents from old models**
+- Receive captured image and save to camera roll
+- Sync pictures triggered by camera shutter key
+- Geo-tagging
+- RGB histogram
+- Composition assist lines
+- Wi-Fi connection support by NFC
+
 #### Development
 
 All of source code and assets are on ['uwpmm' repository](https://github.com/locana/uwpmm) in our organization.
 
+***
 
 ## Scrap
 

@@ -37,11 +37,13 @@ The followings are well-known incompatible camera devices
 - WX80, WX200, WX300 
 
 ### How to transfer photos or movies from camera?
-For AZ1, QX30, and QX1, connect to camera normally, and open playback page.
-Just swipe right to see your contents in the camera.
-You can see/download photos and see movie on streaming.
 
-For E-mount models and fixed lens models, there's a different way.
+#### AZ1, QX30, and QX1
+1. Connect to camera normally, and open playback page.
+2. Just swipe right to see your contents in the camera.
+3. You can see/download photos and see movie on streaming.
+
+#### For E-mount models and fixed lens models
 
 1. Select "Send to Smartphone" from the camera's menu.
 2. Connect to the camera, and launch Locana
@@ -71,7 +73,7 @@ Please try to turn off histogram display.
 We're waiting your feedback on Twitter ([@scrap_support](https://twitter.com/scrap_support)).
 Give us feedback and ask us anything!
 
-And if you are a developer, you can share us on [the repository](https://github.com/locana/uwpmm) directry.
+And if you are a developer, you can share us on [the repository](https://github.com/locana/uwpmm) directly.
 
 ---
 [Back to Index](/)

@@ -68,7 +68,7 @@ Please try to turn off histogram display.
 We're waiting your feedback on Twitter ([@scrap_support](https://twitter.com/scrap_support)).
 Give us feedback and ask us anything!
 
-And if you are a developer, share us on [the repository](https://github.com/locana/wppmm) directry.
+And if you are a developer, share us on [the repository](https://github.com/locana/wppmm) directly.
 
 ---
 [Back to Index](/)
