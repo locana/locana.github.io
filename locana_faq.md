@@ -2,11 +2,11 @@
 layout: default
 ---
 
-## FAQ about Scrap
+## FAQ about Locana
 
 ### How to install?
 
-It'll be available on Windows app store for Windows Phone 8.1
+Now it's available on the Windows phone store for WP8.1 devices. Search "Locana".
 
 For Windows 8.1, wait a while.
 
@@ -38,7 +38,7 @@ The followings are well-known incompatible camera devices
 
 ### How to transfer photos or movies from camera?
 
-#### AZ1, QX30, and QX1
+#### AS200V, X1000V, AZ1, QX30, and QX1
 1. Connect to camera normally, and open playback page.
 2. Just swipe right to see your contents in the camera.
 3. You can see/download photos and see movie on streaming.
@@ -54,7 +54,7 @@ It seems that deleting contents by this method is prohibited and playing movie o
 
 ### NFC does not work
 
-Make sure the followings:
+Make sure the followings, then launch Locana app. again:
 
 - NFC setting of phone device.
 - NFC setting of camera device. (Is NFC icon (like "N" character) displayed on the screen?)

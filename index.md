@@ -19,7 +19,7 @@ Locana will follow the latest API and have new functions which will be supported
 
 ### for Windows Phone 8.1 app.
 
-Entire functions in your hand. Coming in spring 2015.
+It's available on the store.
 
 ### for Windows 8.1 store app.
 
@@ -30,14 +30,14 @@ See [Locana's FAQ](/locana_faq.html)
 
 ### Supported devices and applications
 
-For detail, see official documents. https://developer.sony.com/develop/cameras/
+For detail, see official documents. [https://developer.sony.com/develop/cameras/](https://developer.sony.com/develop/cameras/)
 
 - DSC-QX10 / DSC-QX100 (Firmware v3.00 or later is recommended)
 - QX1 / DSC-QX30
-- HDR-AS15 (Only the latest firmware) / HDR-AS20 / HDR-AS30 / HDR-AS100 / HDR-AZ1
+- HDR-AS15 (Only the latest firmware) / HDR-AS20 / HDR-AS30 / HDR-AS100 / HDR-AZ1 / HDR-AS200 / FDR-X1000
 - PlayMemories Camera Apps - Smart Remote Control v2.0 or later
   + A6000 / A5100 / A5000 / A7R / A7 / A7M2 / A7S / NEX-6 / NEX-5R / NEX-5T
-  + DSC-RX100M3 / DSC-HX60V / DSC-HX400V etc.
+  + DSC-RX100M3 / DSC-HX60 / DSC-HX400 etc.
 - HDR-MV1
 
 **Other old models cannot be supported by our application due to restricted API access.**
@@ -77,7 +77,7 @@ See [Scrap's FAQ](/scrap_faq.html)
 
 ### Supported devices and applications
 
-For detail, see official documents. https://developer.sony.com/develop/cameras/
+For detail, see official documents. [https://developer.sony.com/develop/cameras/](https://developer.sony.com/develop/cameras/)
 
 - DSC-QX10 / DSC-QX100 (Firmware v3.00 or later is recommended)
 - QX1 / DSC-QX30
