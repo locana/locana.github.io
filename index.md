@@ -48,10 +48,11 @@ Available functions are based on provided APIs by each camera device (or install
 
 Refer to [official site](http://developer.sony.com/develop/cameras/) for the details.
 
-Additionally, Scrap supports the following features.
+Additionally, Locana supports the following features.
 
-- **Download contents from old models**
+- **Camera storage access for legacy models**
 - Receive captured image and save to camera roll
+- Video files download
 - Sync pictures triggered by camera shutter key
 - Geo-tagging
 - RGB histogram
