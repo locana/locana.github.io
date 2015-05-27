@@ -65,7 +65,7 @@ It might be caused by phone's CPU performance.
 Please try to turn off histogram display.
 
 ### Feedback
-We're waiting your feedback on Twitter ([@scrap_support](https://twitter.com/scrap_support)).
+We're waiting your feedback on Twitter ([@locana_support](https://twitter.com/locana_support)).
 Give us feedback and ask us anything!
 
 And if you are a developer, share us on [the repository](https://github.com/locana/wppmm) directly.
