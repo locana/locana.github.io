@@ -34,7 +34,7 @@ For detail, see official documents. [https://developer.sony.com/develop/cameras/
 - FDR-X1000
 - PlayMemories Camera Apps - Smart Remote Control v2.0 or later
     - A6000 / A5100 / A5000 / NEX-6 / NEX-5R / NEX-5T
-    - A7S / A7R2/ A7R / A7 / A7M2 / A7S
+    - A7S / A7SM2 / A7R/ A7RM2 / A7 / A7M2
     - DSC-RX100M4 / RX100M3 / RX10M2
     - DSC-HX60 / HX90 / HX400 / WX500 etc.
 - HDR-MV1
