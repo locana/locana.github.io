@@ -4,40 +4,39 @@ layout: default
 
 ## About
 
-We are developing applications for Windows / Windows Phone to control Sony camera devices.
-It's powered by [Sony Camera Remote API](http://developer.sony.com/develop/cameras/).
+**Locana** and **Scrap** are Windows/Windows Phone applications to control
+[Sony Camera Remote API](http://developer.sony.com/develop/cameras/) powered camera devices.
 
 ---
-
 
 ## Locana
 
 New generation of remote control application for Sony camera devices.
-We're planning to support both Windows 8.1 and Windows Phone 8.1.
 
 Locana will follow the latest API and have new functions which will be supported on the new models.
 
-### for Windows Phone 8.1 app.
+### Windows 10 Universal Application
 
-It's available on the store.
+Under development. Wait for this Spring!
 
-### for Windows 8.1 store app.
+### Windows Phone 8.1 Application
 
-Powerful functions with large screen.
-
-### FAQ
-See [Locana's FAQ](/locana_faq.html)
+[Available on the store](https://www.microsoft.com/en-us/store/apps/locana/9nblggh2t6h1).
 
 ### Supported devices and applications
 
 For detail, see official documents. [https://developer.sony.com/develop/cameras/](https://developer.sony.com/develop/cameras/)
 
-- DSC-QX10 / DSC-QX100 (Firmware v3.00 or later is recommended)
-- QX1 / DSC-QX30
-- HDR-AS15 (Only the latest firmware) / HDR-AS20 / HDR-AS30 / HDR-AS100 / HDR-AZ1 / HDR-AS200 / FDR-X1000
+- DSC-QX10 / QX100 (Firmware v3.00 or later is recommended)
+- ILCE-QX1 / DSC-QX30
+- HDR-AS15 (Only the latest firmware)
+- HDR-AS20 / AS30 / AS100 / AZ1 / AS200
+- FDR-X1000
 - PlayMemories Camera Apps - Smart Remote Control v2.0 or later
-  + A6000 / A5100 / A5000 / A7R / A7 / A7M2 / A7S / NEX-6 / NEX-5R / NEX-5T
-  + DSC-RX100M3 / DSC-HX60 / DSC-HX400 etc.
+    - A6000 / A5100 / A5000 / NEX-6 / NEX-5R / NEX-5T
+    - A7S / A7R2/ A7R / A7 / A7M2 / A7S
+    - DSC-RX100M4 / RX100M3 / RX10M2
+    - DSC-HX60 / HX90 / HX400 / WX500 etc.
 - HDR-MV1
 
 **Other old models cannot be supported by our application due to restricted API access.**
@@ -46,7 +45,7 @@ For detail, see official documents. [https://developer.sony.com/develop/cameras/
 
 Available functions are based on provided APIs by each camera device (or installed Smart Remote Control app version).
 
-Refer to [official site](http://developer.sony.com/develop/cameras/) for the details.
+Refer to the [official site](http://developer.sony.com/develop/cameras/) for details.
 
 Additionally, Locana supports the following features.
 
@@ -57,11 +56,18 @@ Additionally, Locana supports the following features.
 - Geo-tagging
 - RGB histogram
 - Composition assist lines
-- Wi-Fi connection support by NFC
+- Wi-Fi connection assistant with NFC
+
+### FAQ
+
+See [Locana's FAQ](/locana_faq.html)
 
 #### Development
 
-All of source code and assets are on ['uwpmm' repository](https://github.com/locana/uwpmm) in our organization.
+Almost all of source code and assets are in the public repositories of our organization.
+
+- [locana](https://github.com/locana/locana) for Windows 10.
+- [uwpmm](https://github.com/locana/uwpmm) for Windows Phone 8.1.
 
 ***
 
