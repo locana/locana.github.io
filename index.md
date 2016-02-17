@@ -17,7 +17,7 @@ Locana will follow the latest API and have new functions which will be supported
 
 ### Windows 10 Universal Application
 
-See [Locana for Windows10](/win10_uwp.html)
+See [Locana for Windows 10](/win10_uwp.html)
 
 ### Windows Phone 8.1 Application
 
