@@ -8,6 +8,16 @@ Locana reborns this Spring to support all modern Windows systems over the world!
 
 Of cource, **Windows 10 Desktop, Tablet and Mobile are supported**, thanks to the Universal Windows Platform.
 
+## Sample images
+
+### Desktop
+
+![desktop_02]({{site.baseurl}}/images/sample_desktop_02.jpg)
+
+### Mobile
+
+![mobile_02]({{site.baseurl}}/images/sample_mobile_02.png)
+
 ## Features
 
 Available functions are based on provided APIs by each camera device (or installed Smart Remote Control app version).  
