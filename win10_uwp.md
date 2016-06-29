@@ -34,15 +34,6 @@ Additionally, Locana supports the following features.
 - Composition assist lines
 - Wi-Fi connection assistant with NFC and QR code
 
-## Beta test!!
-
-To enhance the new application's quality, we are looking for the beta testers.
-
-To test the beta app on your Windows 10 devices, please contact our support account([@locana_support](https://twitter.com/locana_support))!
-We'll invite you as a beta tester shortly.
-
-**Please understand that it's still under development, and no warranty.**
-
 ## Known issues/report issues
 
 We are listing found issues on [Github issue tracker](https://github.com/locana/locana/issues).
