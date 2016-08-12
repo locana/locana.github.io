@@ -25,7 +25,7 @@ For Windows 8.1, wait a while.
 In some models, shipping version software does not support remote control by 3rd party applications, even if it is listed as supported device.
 
 - Camera Apps models requires install of Smart Remote Control app at PlayMemories Camera Apps store from your camera or PC.
-Note that **almost all of pre-installed app are incompatible with Scrap**.
+Note that **almost all of pre-installed app are incompatible with Locana**.
 - QX10/100 and AS15 requires firmware update from your PC.
 
 Unfortunately, some models **cannot be supported** because of API restriction of camera device.
