@@ -6,9 +6,9 @@ layout: default
 
 ### How to install?
 
-Now it's available on the Windows phone store for WP8.1 devices. Search "Locana".
-
-For Windows 8.1, wait a while.
+<a href="https://www.microsoft.com/store/apps/9nblggh2t6h1?ocid=badge">
+<img src="https://assets.windowsphone.com/f2f77ec7-9ba9-4850-9ebe-77e366d08adc/English_Get_it_Win_10_InvariantCulture_Default.png" width="284" alt="Get it on Windows 10" />
+</a>
 
 ### How to use?
 1. Launch remote control mode on your camera device.
