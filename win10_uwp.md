@@ -5,7 +5,10 @@ layout: default
 # Locana for Windows 10
 
 <a href="https://www.microsoft.com/store/apps/9nblggh2t6h1?ocid=badge">
-<img src="https://assets.windowsphone.com/f2f77ec7-9ba9-4850-9ebe-77e366d08adc/English_Get_it_Win_10_InvariantCulture_Default.png" width="284" alt="Get it on Windows 10" />
+<img 
+	src="https://assets.windowsphone.com/f2f77ec7-9ba9-4850-9ebe-77e366d08adc/English_Get_it_Win_10_InvariantCulture_Default.png"
+	width="200"
+	alt="Get it on Windows 10" />
 </a>
 
 ## Sample images
