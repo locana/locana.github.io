@@ -13,17 +13,17 @@
     },
     "collected" : [
                 {
-            "element" : "Location information",
-            "why" : "We access to location information only for geotagging your photos.",
+            "element" : "Location data",
+            "why" : "We access to users' location data for geotagging feature.",
             "class" : "",
-            "moreInfo" : ["Current locations are used to geotagging. This feature is turned off as default; works only with your preferrence. We never send any location info or geotagged files to anywhere from your phone or PC even in debug logging mode."]
+            "moreInfo" : ["Current locations are used for geotagging photo files. This feature is turned off as default; works only with your preference. We never send any location data or geotagged files anywhere even in debug logging mode."]
         }
         ,
         {
             "element" : "User files",
-            "why" : "We access to users photo or movie only to show in Locana app.",
+            "why" : "We access to users' photo and video files to build and display gallery screen.",
             "class" : "",
-            "moreInfo" : ["<i>User files</i> are files containing your content, such as photos, or video. We use them only for displaying on Locana app; we never send any data to anywhere from your phone or PC even in debug logging mode."]
+            "moreInfo" : ["<i>User files</i> includes your content, such as photo and video. We use them only for displaying gallery screen on Locana app; we never send any data anywhere even in debug logging mode."]
         }
     ],
     "notCollected" : [
